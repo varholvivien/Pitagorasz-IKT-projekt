@@ -1,0 +1,15 @@
+Érdekességek:
+-A tétel bizonyítására általában felhasználjuk azt az euklideszt axiomát amely kimondja hogy: "Ha egyenlőkből egyenlőket veszünk el, akkor a maradékok is egyenlőek."
+-Sokan követik el a hibát a tétellel, hogy csak bemagolják az a*a+b*b=c*c tételt, és meglepődnek amikor egy olyan háromszöggel találkoznak, aminek a befogói és átfogója teljesen másképp van elnevezve, hamissá téve azt amit bemagoltak. Nem szabad elfelejteni, hogy a pitagorasz tétel az azt mondja ki, hogy a befogók négyzeteinek összege egyenlő az átfogó négyzetével.
+-Amikor Püthagorasz felfedezte a pitagorasz tételt, akkor már idniai, görög, babilóniai és kínai matematikusok már ismerték a tételt.
+-Legelőször a Kínaiak adtak bizonyitást a tételre, még Püthagorasz előtt.
+-Tanitványaival fontos, máig ható eredményeket értek el matematikában, csillagászatban és még zenében is.
+-Püthagoraszt a "Számok atyja"-ként is emlegetik.
+
+Bizonyítás:
+IMG:(http://tutimatek.hu/wp-content/uploads/2017/04/2000px-Pythagorean_proof.svg_-300x200.png)
+Rajzoljunk két azonos négyzetet amelyek egyenlőek a+b-vel, majd bontsuk fel őket a fenti ábra szerint.
+A bal oldali négyzetet tagoljuk négy részre úgy, hogy négy db. derékszögű háromszöget kapjunk melyeknek befogói a és b. Ezek azonos méretűek.
+A jobb oldali négyszöget tagoljuk öt részre úgy, hogy négy az előző felbontáséval egyenlő derékszögeket kapjunk (azaz befogójuk a és b).
+Mind a kettő négyzetben található derékszögű háromszögeknek c az átfogója.
+Ha ebből a két négyzetből elvesszük a négy-négy azonos méretű háromszögeket, akkor a megmaradt területnek meg kell egyeznie.
