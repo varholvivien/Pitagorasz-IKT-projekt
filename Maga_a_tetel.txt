@@ -1,0 +1,30 @@
+A Pitagorasz-tétel
+
+Az alapvetõ képlet, amit nagyon sokan tudnak az, az a2+b2=c2.
+Amit már nem biztos, hogy annyian tudnak (akik csak bemagolták a képletet, de nem értették meg, nem tudják a logikáját és értelmezését), hogy, ha felcseréljük a tényezõket és az írásjeleket a helyükön hagyjuk, akkor a képlet már nem lesz igaz.
+Vagyis c2+b2=a2 és c2+a2=b2 nem lesz igaz.
+Hivatalos megfogalmazása: A derékszögû háromszög befogóira emelt négyzetek területeinek összege egyenlõ az átfogóra emelt négyzet területével.
+Szavakkal megfogalmazva: A derékszögû háromszög két befogójára rajzolt négyzet területének összege egyenlõ az átfogóra rajzolt négyzet területével.
+
+A tétel megfordítása: 
+Ha egy háromszög két oldalhosszának négyzetösszege egyenlõ a harmadik oldal hosszának négyzetével, akkor a háromszög derékszögû.
+Ha a2+b2<c2 akkor a háromszög TOMPASZÖGÛ. 
+(A leghosszabb oldallal szemben lévõ szöge lesz a tompaszög.)
+
+
+Ha a2+b2>c2 akkor a háromszög HEGYESSZÖGÛ. 
+(A leghosszabb oldallal szemben lévõ szöge is hegyesszög.)
+
+
+A két befogó oldalhosszának négyzete egyenlõ az átfogó oldalhosszának négyzetével
+
+
+
+
+
+
+
+
+
+Már az ókorban is a ennek a tételnek a segítségével hoztak létre derékszöget anélkül, hogy a tételt általánosságban kimondták volna.
+Pitagoraszi számhármas: 32+42=52
