@@ -34,3 +34,4 @@ Pythagoras' theorem states the following: the square of the hypotenuse is equal 
 Or in short: a2+b2=c2.
 If you just simply cram Pythagoras' theorem, you won't be able to properly use it.
 If two sides' square sum is equal to that of the third side, then the triangle is right-angled, if a2+b2<c2 the it's an obtuse-angle, or if a2+b2>c2 then it's an acute-angle.
+
