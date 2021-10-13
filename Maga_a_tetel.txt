@@ -1,24 +1,22 @@
-A Pitagorasz-tétel
+A Pitagorasz-tÃ©tel
 
-Az alapvetõ képlet, amit nagyon sokan tudnak az, az a2+b2=c2.
-Amit már nem biztos, hogy annyian tudnak (akik csak bemagolták a képletet, de nem értették meg, nem tudják a logikáját és értelmezését), hogy, ha felcseréljük a tényezõket és az írásjeleket a helyükön hagyjuk, akkor a képlet már nem lesz igaz.
-Vagyis c2+b2=a2 és c2+a2=b2 nem lesz igaz.
-Hivatalos megfogalmazása: A derékszögû háromszög befogóira emelt négyzetek területeinek összege egyenlõ az átfogóra emelt négyzet területével.
-Szavakkal megfogalmazva: A derékszögû háromszög két befogójára rajzolt négyzet területének összege egyenlõ az átfogóra rajzolt négyzet területével.
+Az alapvetÅ‘ kÃ©plet, amit nagyon sokan tudnak az, az a2+b2=c2.
+Amit mÃ¡r nem biztos, hogy annyian tudnak (akik csak bemagoltÃ¡k a kÃ©pletet, de nem Ã©rtettÃ©k meg, nem tudjÃ¡k a logikÃ¡jÃ¡t Ã©s Ã©rtelmezÃ©sÃ©t), hogy, ha felcserÃ©ljÃ¼k a tÃ©nyezÅ‘ket Ã©s az Ã­rÃ¡sjeleket a helyÃ¼kÃ¶n hagyjuk, akkor a kÃ©plet mÃ¡r nem lesz igaz.
+Vagyis c2+b2=a2 Ã©s c2+a2=b2 nem lesz igaz.
+Hivatalos megfogalmazÃ¡sa: A derÃ©kszÃ¶gÅ± hÃ¡romszÃ¶g befogÃ³ira emelt nÃ©gyzetek terÃ¼leteinek Ã¶sszege egyenlÅ‘ az Ã¡tfogÃ³ra emelt nÃ©gyzet terÃ¼letÃ©vel.
+Szavakkal megfogalmazva: A derÃ©kszÃ¶gÅ± hÃ¡romszÃ¶g kÃ©t befogÃ³jÃ¡ra rajzolt nÃ©gyzet terÃ¼letÃ©nek Ã¶sszege egyenlÅ‘ az Ã¡tfogÃ³ra rajzolt nÃ©gyzet terÃ¼letÃ©vel.
 
-A tétel megfordítása: 
-Ha egy háromszög két oldalhosszának négyzetösszege egyenlõ a harmadik oldal hosszának négyzetével, akkor a háromszög derékszögû.
-Ha a2+b2<c2 akkor a háromszög TOMPASZÖGÛ. 
-(A leghosszabb oldallal szemben lévõ szöge lesz a tompaszög.)
-
-
-Ha a2+b2>c2 akkor a háromszög HEGYESSZÖGÛ. 
-(A leghosszabb oldallal szemben lévõ szöge is hegyesszög.)
+A tÃ©tel megfordÃ­tÃ¡sa: 
+Ha egy hÃ¡romszÃ¶g kÃ©t oldalhosszÃ¡nak nÃ©gyzetÃ¶sszege egyenlÅ‘ a harmadik oldal hosszÃ¡nak nÃ©gyzetÃ©vel, akkor a hÃ¡romszÃ¶g derÃ©kszÃ¶gÅ±.
+Ha a2+b2<c2 akkor a hÃ¡romszÃ¶g TOMPASZÃ–GÅ°. 
+(A leghosszabb oldallal szemben lÃ©vÅ‘ szÃ¶ge lesz a tompaszÃ¶g.)
 
 
-A két befogó oldalhosszának négyzete egyenlõ az átfogó oldalhosszának négyzetével
+Ha a2+b2>c2 akkor a hÃ¡romszÃ¶g HEGYESSZÃ–GÅ°. 
+(A leghosszabb oldallal szemben lÃ©vÅ‘ szÃ¶ge is hegyesszÃ¶g.)
 
 
+A kÃ©t befogÃ³ oldalhosszÃ¡nak nÃ©gyzete egyenlÅ‘ az Ã¡tfogÃ³ oldalhosszÃ¡nak nÃ©gyzetÃ©vel
 
 
 
@@ -26,5 +24,13 @@ A két befogó oldalhosszának négyzete egyenlõ az átfogó oldalhosszának négyzetéve
 
 
 
-Már az ókorban is a ennek a tételnek a segítségével hoztak létre derékszöget anélkül, hogy a tételt általánosságban kimondták volna.
-Pitagoraszi számhármas: 32+42=52
+
+
+MÃ¡r az Ã³korban is a ennek a tÃ©telnek a segÃ­tsÃ©gÃ©vel hoztak lÃ©tre derÃ©kszÃ¶get anÃ©lkÃ¼l, hogy a tÃ©telt Ã¡ltalÃ¡nossÃ¡gban kimondtÃ¡k volna.
+Pitagoraszi szÃ¡mhÃ¡rmas: 32+42=52
+
+Summary:
+Pythagoras' theorem states the following: the square of the hypotenuse is equal to the sum of the other two sided' squares.
+Or in short: a2+b2=c2.
+If you just simply cram Pythagoras' theorem, you won't be able to properly use it.
+If two sides' square sum is equal to that of the third side, then the triangle is right-angled, if a2+b2<c2 the it's an obtuse-angle, or if a2+b2>c2 then it's an acute-angle.
