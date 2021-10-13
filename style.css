@@ -1,3 +1,6 @@
+body{
+    background-color: gainsboro;
+}
 header{
     height: 50px;
     text-align: center;
@@ -8,4 +11,26 @@ h1{
 }
 p{
     text-align: justify;
+}
+footer{
+    background-color: white;
+    text-align: center;
+}
+.container{
+    background-color: whitesmoke;
+}
+h4{
+    text-decoration: underline;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+    color: orangered;
+}
+a:active{
+    text-decoration: underline;
+    color: red;
 }
