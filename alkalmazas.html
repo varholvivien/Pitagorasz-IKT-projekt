@@ -12,9 +12,9 @@
 </head>
 
 <body>
-  <div class="container">
+  <div class="container px-4">
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-      <a class="navbar-brand" href="#">Pitagporasz tétel</a>
+      <a class="navbar-brand cim" href="#">Pitagporasz tétel</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
         aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -25,10 +25,10 @@
             <a class="nav-link" href="index.html">Főoldal</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="erdekessegek.html">Bizonyítás és érdekességek</a>
+            <a class="nav-link disabled" href="alkalmazas.html">Alkalmazása</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link disabled" href="alkalmazas.html">Alkalmazása</a>
+            <a class="nav-link" href="erdekessegek.html">Bizonyítás és érdekességek</a>
           </li>
         </ul>
       </div>
@@ -51,23 +51,34 @@
           átfogóra emelt négyzet területével.
           Szavakkal megfogalmazva: A derékszögű háromszög két befogójára rajzolt négyzet területének összege egyenlő az
           átfogóra rajzolt négyzet területével.</p>
-
+      </div>
+    </div>
+    <div class="row mt-3 mb-3">
+      <div class="col-md-5">
+        <img src="haromszogek.png" alt="Háromszögek" class="img-fluid border border-secondary rounded">
+      </div>
+      <div class="col-md-7">
         <h3>A tétel megfordítása:</h3>
         <p>Ha egy háromszög két oldalhosszának négyzetösszege egyenlő a harmadik oldal hosszának négyzetével, akkor a
-          háromszög derékszögű.</p>
-        <p>Ha a<sup>2</sup>+b<sup>2</sup> kisebb, mint a c<sup>2</sup> akkor a háromszög TOMPASZÖGŰ. (A leghosszabb
+          háromszög derékszögű.
+          Ha a<sup>2</sup>+b<sup>2</sup> kisebb, mint a c<sup>2</sup> akkor a háromszög TOMPASZÖGŰ. (A leghosszabb
           oldallal szemben lévő szöge lesz a tompaszög.) Ha
           a<sup>2</sup>+b<sup>2</sup>>c<sup>2</sup> akkor a háromszög HEGYESSZÖGŰ.
-          (A leghosszabb oldallal szemben lévő szöge is hegyesszög.)</p>
+          (A leghosszabb oldallal szemben lévő szöge is hegyesszög.)
 
 
-        <p>A két befogó oldalhosszának négyzete egyenlő az átfogó oldalhosszának négyzetével</p>
+          A két befogó oldalhosszának négyzete egyenlő az átfogó oldalhosszának négyzetével</p>
 
 
         <p>Már az ókorban is a ennek a tételnek a segítségével hoztak létre derékszöget anélkül, hogy a tételt
           általánosságban kimondták volna.
           Pitagoraszi számhármas: 32+42=52</p>
+      </div>
+    </div>
 
+
+    <div class="row summary">
+      <div class="col-12">
         <h3 class="text-danger">Summary:</h3>
         <p>Pythagoras' theorem states the following: the square of the hypotenuse is equal to the sum of the other two
           sided' squares.
@@ -76,9 +87,8 @@
           If two sides' square sum is equal to that of the third side, then the triangle is right-angled, if
           a<sup>2</sup>+b<sup>2</sup>
           < c<sup>2</sup>
-            the it's an obtuse-angle, or if a<sup>2</sup>+b<sup>2</sup>> c<sup>2</sup>then it's an acute-angle.
+            the it's an obtuse-angle, or if a<sup>2</sup>+b<sup>2</sup>> c<sup>2</sup> then it's an acute-angle.
         </p>
-
       </div>
     </div>
     <div class="row">
@@ -87,6 +97,15 @@
       </div>
     </div>
   </div>
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+    integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
+    integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+    crossorigin="anonymous"></script>
 </body>
 
 </html>

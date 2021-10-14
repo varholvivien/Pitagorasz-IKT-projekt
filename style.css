@@ -21,7 +21,7 @@ footer{
 }
 h4{
     text-decoration: underline;
-    font-weight: bold;
+    margin-top: 10px;
 }
 a{
     text-decoration: none;
@@ -33,4 +33,15 @@ a:hover{
 a:active{
     text-decoration: underline;
     color: red;
+}
+.cim:hover{
+    text-decoration: none;
+}
+.summary{
+    border-right: solid 2px grey;
+    border-left: solid 2px grey;
+    background-color: lightgrey;
+}
+.linkek{
+    color: black;
 }
